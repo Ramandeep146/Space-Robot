@@ -1,3 +1,5 @@
+# Space Robot
+
 A 2D game in which a robot can shoot in any direction to kill the enemies and achieve the highest score. Flying enemies can also shoot fireballs to kill the player (Robot).
 - Implemented object oriented programming design with three level grandparent-parent-child hierarchical/inheritance class objects.
 - Used array list to store enemies, bullets and fireballs.
